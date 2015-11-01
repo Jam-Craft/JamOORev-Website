@@ -16,3 +16,4 @@ exclude:
 - '/.*'
 - 'Thumbs.db'
 - '/Gemfile*'
+- 'README.md'
